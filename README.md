@@ -1,4 +1,4 @@
-# Ai-mini-Project
+# GitHub-Lab-Experiment
 This project is about basic AI implementation using Python
 Features:
   Data preprocessing
